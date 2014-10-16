@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 """
+ SimpleCarpoolComparison.py: This compares two routes to see which one saves time.
 
  Copyright 2014 Jason Randolph Eads
 
@@ -15,10 +17,17 @@
  limitations under the License.
 
 """
-# SimpleCarpoolComparion.py
-# Description: This compares two routes to see which one saves time.
 
-__author__ = 'Jason R. Eads <jeads442@gmail.com'
+__author__ = "Jason Randolph Eads <jeads442@gmail.com>"
+__copyright__ = "Copyright 2014, Jason Randolph Eads"
+
+__credits__ = ["Lyft", "NASA", "Chris Veness","chemical-ecology.net","Google Maps"]
+__license__ = "Apache 2.0"
+__version__ = "1.0.0"
+__maintainer__ = "Jason Randolph Eads"
+__email__ = "jeads442@gmail.com"
+__status__ = "Prototype"
+
 
 import math
 import logging
